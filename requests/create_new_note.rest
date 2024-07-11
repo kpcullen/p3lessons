@@ -1,0 +1,6 @@
+POST http://localhost:3001/api/notes
+
+{
+  "content": "VS Code test",
+  "important": true
+}
